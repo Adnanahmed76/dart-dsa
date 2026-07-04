@@ -1,6 +1,6 @@
 void main(){
   List<int> nums=[7,23,4,32,23,45,65];
-  int target=46;
+  int target=11;
   List<int> result=TwoSumOptimized(nums,target);
   print("Result: $result");
 
