@@ -1,7 +1,6 @@
 void main() {
   List<int> nums = [2, 4, 6, 7, 8];
   int target = 13;
-
   List<int> result = twoSum(nums, target);
   print(result);
 }
